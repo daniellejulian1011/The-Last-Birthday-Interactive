@@ -1,0 +1,8 @@
+{
+  "name":"the-last-birthday-visual-novel",
+  "version":"1.0.0",
+  "private":true,
+  "type":"module",
+  "description":"An original, first-person horror visual novel playable on GitHub Pages without any runtime dependencies.",
+  "scripts":{"test":"node tests/validate.mjs"}
+}
